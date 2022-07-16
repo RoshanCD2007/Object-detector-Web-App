@@ -1,0 +1,16 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+a{
+    border: 5px solid white;
+    max-width: 500px;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
